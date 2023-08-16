@@ -1,0 +1,26 @@
+.btn {
+    height: 40px;
+    width: 100px;
+    border-radius: 20px;
+    outline: none;
+    border: none;
+    box-sizing: border-box;
+    cursor: pointer;
+}
+
+.submit {
+    background-color: lightskyblue;
+}
+
+.cancel {
+    background-color: coral;
+}
+
+.mark {
+    width: 36px;
+    height: 36px;
+    border-radius: 18px;
+    outline: none;
+    border: none;
+    color: white;
+ }

@@ -1,0 +1,21 @@
+.container {
+    width: 100%;
+    position: sticky;
+    top: 0;
+    height: 60px;
+    background-color: #e7e7e7;
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+    gap: 20px;
+    padding: 0 20px;
+    box-sizing: border-box;
+    z-index: 999;
+}
+
+.link {
+    outline: none;
+    text-decoration: none;
+    font-family: Arial, sans-serif;
+    color: #575757;
+}
